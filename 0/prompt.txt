@@ -1,0 +1,1 @@
+update README.md so it has examples how to run it with uvx using git repo as a source
