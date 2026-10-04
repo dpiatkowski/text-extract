@@ -1,0 +1,7 @@
+I need a utility that will extract text with tables from pdf files and save into markdown files.
+
+We will support different type of input and output formats in the future, but right now assume default input is pdf and output is markdown. Add cli arguments to override this setting these as defaults.
+
+Use https://github.com/pymupdf/pymupdf4llm for pdfs.
+
+I need this to be runnable with uvx so build everything using it
