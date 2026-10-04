@@ -1,0 +1,1 @@
+trim .gitignore file so it works for uv but without all the garbage from the past
